@@ -134,7 +134,7 @@ def bonnetje():
         ''')
 
 
-print("welkom bij papi gelato")  
+print("Welkom bij papi gelato")  
 typeklant = klant()
     
 if typeklant=='1':
